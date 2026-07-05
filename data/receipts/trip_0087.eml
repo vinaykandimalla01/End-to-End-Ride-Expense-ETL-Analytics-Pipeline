@@ -1,0 +1,27 @@
+Content-Type: multipart/alternative; boundary="===============9027222669964933880=="
+MIME-Version: 1.0
+From: Uber <no-reply@uber.com>
+To: customer@example.com
+Subject: Your Uber trip receipt #87
+Date: Sat, 04 Jul 2026 20:40:31 +0000
+
+--===============9027222669964933880==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+    <html><body>
+    <h2>Uber</h2>
+    <p>Thanks for riding, Rahul</p>
+    <h3>Total MX$32.75</h3>
+    <p>Trip Fare MX$30.17</p>
+    <p>Booking Fee MX$2.13</p>
+    <p>Government Contribution MX$0.45</p>
+    <p>Amount Charged MX$32.75</p>
+    <p>You rode with David</p>
+    <p>Pickup: Koramangala</p>
+    <p>Dropoff: HSR Layout</p>
+    </body></html>
+    
+--===============9027222669964933880==--

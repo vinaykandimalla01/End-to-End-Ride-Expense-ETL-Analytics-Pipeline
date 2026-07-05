@@ -1,0 +1,29 @@
+Content-Type: multipart/alternative; boundary="===============7905555557914134087=="
+MIME-Version: 1.0
+From: Uber <no-reply@uber.com>
+To: customer@example.com
+Subject: Your Uber Eats receipt #34
+Date: Sat, 04 Jul 2026 20:40:31 +0000
+
+--===============7905555557914134087==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+    <html><body>
+    <h2>Uber Eats</h2>
+    <p>Thanks for ordering, Aarav</p>
+    <h3>Total MX$32.75</h3>
+    <table border="1">
+    <tr><td>1</td><td>Sample Meal</td><td>MX$27.07</td></tr>
+    </table>
+    <p>Subtotal MX$27.07</p>
+    <p>Delivery Fee MX$3.11</p>
+    <p>Service Fee MX$2.57</p>
+    <p>Amount Charged MX$32.75</p>
+    <p>You ordered from Subway</p>
+    <p>Delivered to: MG Road</p>
+    </body></html>
+    
+--===============7905555557914134087==--

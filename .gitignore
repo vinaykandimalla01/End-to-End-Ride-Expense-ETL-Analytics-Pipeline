@@ -1,0 +1,65 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+out/
+target/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Cache
+.cache/
+.tmp/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Java
+*.class
+*.jar
+*.war
+
+# C/C++
+*.o
+*.obj
+*.exe
+
+# Test coverage
+coverage/
+.coverage
+
+# Package managers
+package-lock.json
+yarn-error.log
+pnpm-debug.log
+
+# Secrets
+*.pem
+*.key
+*.crt
+
+# Git
+*.orig
