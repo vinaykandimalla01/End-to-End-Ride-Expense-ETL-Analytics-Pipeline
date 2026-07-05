@@ -29,7 +29,7 @@ The pipeline extracts receipt data, performs data cleansing and transformation, 
 # The Final Schema We Are Going to Build
 
 <p align="center">
-    <img src="docs/Images/schema.png" width="100%">
+    <img src="docs/Images/schema.jpg" width="100%">
 </p>
 
 ---
@@ -37,7 +37,7 @@ The pipeline extracts receipt data, performs data cleansing and transformation, 
 # The Final DAG We Are Going to Build
 
 <p align="center">
-    <img src="docs/Images/DAG.png" width="100%">
+    <img src="docs/Images/DAG.PNG" width="100%">
 </p>
 
 ---
@@ -895,7 +895,7 @@ Database → Amazon Redshift Database
 - Connectivity Mode → Import
 
 <p align="center">
-<img src="docs/Images/powerbi.fig" width="95%">
+<img src="docs/Images/powerbi.gif" width="95%">
 </p>
 
 7. Authenticate using your Redshift credentials.
